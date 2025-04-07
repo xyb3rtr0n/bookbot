@@ -8,4 +8,4 @@ Using BookBot with book text files from books folder.
 
 [![asciicast](https://asciinema.org/a/3GbovFiveo7tZJ6NkZ1zwA1bX.svg)](https://asciinema.org/a/3GbovFiveo7tZJ6NkZ1zwA1bX)
 
-![image1_bookbot](./assets/images/image1_bookbot.png)
+![image1_bookbot](assets_for_README/image1_bookbot.png)

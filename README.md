@@ -1,6 +1,6 @@
 # BookBot
 
-BookBot is my first [https://www.boot.dev](https://www.boot.dev) project written in Python.
+BookBot is my first [boot.dev](https://www.boot.dev) project written in Python.
 
 ## Demo
 
